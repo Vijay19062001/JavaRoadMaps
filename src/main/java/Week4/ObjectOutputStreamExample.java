@@ -14,7 +14,7 @@ class Dog implements Serializable {
     }
 }
 
-public class ObjectOutputExample {
+public class ObjectOutputStreamExample {
     public static void main(String[] args) {
 
     	Dog dog1 = new Dog("Tyson", "Labrador");
