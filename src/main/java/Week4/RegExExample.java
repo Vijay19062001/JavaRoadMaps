@@ -14,7 +14,7 @@ public class RegExExample {
 
         // Test string
         String email = "Ajay1234@example.com";
-        String password = "Ajay@1";  // Updated password to meet the regex criteria
+        String password = "Ajay@1";
 
         // Create a Matcher object
         Matcher emailMatcher = emailPattern.matcher(email);
