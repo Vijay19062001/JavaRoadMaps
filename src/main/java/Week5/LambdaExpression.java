@@ -1,4 +1,4 @@
-package Week4;
+package Week5;
 
 interface MathOperations{
     int Operations(int a,int b);
