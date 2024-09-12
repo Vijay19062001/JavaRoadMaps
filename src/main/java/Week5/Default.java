@@ -20,7 +20,7 @@ public class Default {
     public static void main(String[] args) {
         PaymentProcessor processor = new CreditCardProcessor();
         processor.processRefund();
-        processor.processPayment();      // Calls the overridden method
+        processor.processPayment();
 
     }
 }
